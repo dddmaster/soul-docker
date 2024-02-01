@@ -1,2 +1,2 @@
 # soul-docker
-Soul Docker Container
+Docker container of https://github.com/thevahidal/soul
